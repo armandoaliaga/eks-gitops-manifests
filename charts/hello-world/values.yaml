@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: 979075841935.dkr.ecr.us-east-1.amazonaws.com/eks-gitops-app
-  tag: 5117121ed5139ebcaceeece73938a94d9a7b2b5f
+  tag: f76f3712a8bfbcaf38a82da7cf5217fd783d28f7
   pullPolicy: IfNotPresent
 
 service:
